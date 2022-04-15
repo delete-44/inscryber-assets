@@ -12,3 +12,7 @@ Images are scaled up using "nearest neighbour" resizing, which is suitable for p
 | Tribes           | 109x149       | 256x350     |
 | Grouped Costs    | 64x64         | 284x284     |
 | Individual Costs | 22x64         | 98x284      |
+
+## Unfamiliar with GitHub?
+
+If you're new to GitHub you can still download these resources :) Towards the top-right of the [Inscryber Assets repo](https://github.com/delete-44/inscryber-assets) you should see a green "Code" button. Click this and you'll have an option to "Download ZIP", which can be used as normal.
